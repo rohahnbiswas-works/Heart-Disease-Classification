@@ -1,0 +1,2 @@
+This ML classification model was created by me as a part of learning Machine Learning. This model utilizes several concepts of classification supervised learning and utilizes schikit-learn library. This model trains on a heart disease related dataset and does a binary prediction based on the features like age, sex, thalach etc.
+Various Concepts like data preprocessing, hyperparameter tuning, evaluation techniques of regression (like Accuracy,Recall,Precisionetc.) were learnt and utilized in this project.
